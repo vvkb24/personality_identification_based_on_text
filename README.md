@@ -132,4 +132,3 @@ You can reproduce the evaluation with:
 python -m src.evaluate.run_eval_text
 ```
 
-If you want, I can add a CSV report (`reports/eval_text.csv`) with per-sample predictions, true values, and errors, or include the metrics and plot in the repository README as embedded images.
