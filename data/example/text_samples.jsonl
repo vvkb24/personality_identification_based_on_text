@@ -1,0 +1,110 @@
+{"id": "s1", "text": "I love meeting new people and exploring new ideas.", "traits": {"O": 0.8, "C": 0.6, "E": 0.9, "A": 0.7, "N": 0.2}, "emotion": "happy"}
+{"id": "s2", "text": "I prefer routines and organized environments.", "traits": {"O": 0.3, "C": 0.9, "E": 0.2, "A": 0.6, "N": 0.4}, "emotion": "neutral"}
+{"id": "s3", "text": "Sometimes I feel anxious in crowded places, but I try to manage it.", "traits": {"O": 0.4, "C": 0.5, "E": 0.2, "A": 0.6, "N": 0.8}, "emotion": "sad"}
+{"id": "s4", "text": "I enjoy planning trips and learning the history of new cities.", "traits": {"O": 0.9, "C": 0.5, "E": 0.7, "A": 0.8, "N": 0.1}, "emotion": "happy"}
+{"id": "s5", "text": "Work gives me structure; I like checklists and clear deadlines.", "traits": {"O": 0.2, "C": 0.95, "E": 0.3, "A": 0.5, "N": 0.2}, "emotion": "neutral"}
+{"id": "s6", "text": "I sometimes get irritated quickly, especially when things go wrong.", "traits": {"O": 0.35, "C": 0.4, "E": 0.4, "A": 0.3, "N": 0.75}, "emotion": "sad"}
+{"id": "s7", "text": "Music lifts my mood and I often try new genres and artists.", "traits": {"O": 0.85, "C": 0.45, "E": 0.8, "A": 0.7, "N": 0.15}, "emotion": "happy"}
+{"id": "s8", "text": "I value close friendships and prefer deep conversations to small talk.", "traits": {"O": 0.6, "C": 0.6, "E": 0.5, "A": 0.9, "N": 0.25}, "emotion": "neutral"}
+{"id": "s9", "text": "Lately I've been feeling low energy and less motivated than usual.", "traits": {"O": 0.4, "C": 0.45, "E": 0.2, "A": 0.5, "N": 0.85}, "emotion": "sad"}
+{"id": "s10", "text": "I enjoy spontaneous outings and trying food from new places.", "traits": {"O": 0.88, "C": 0.4, "E": 0.85, "A": 0.6, "N": 0.12}, "emotion": "happy"}
+{"id": "s11", "text": "I enjoy exploring new hobbies and learning new skills. (sample 11)", "traits": {"O": 0.07, "C": 0.34, "E": 0.62, "A": 0.84, "N": 0.22}, "emotion": "neutral"}
+{"id": "s12", "text": "I value clear routines and well-organized schedules. (sample 12)", "traits": {"O": 0.44, "C": 0.57, "E": 0.58, "A": 0.88, "N": 0.41}, "emotion": "happy"}
+{"id": "s13", "text": "Social gatherings make me excited and energized. (sample 13)", "traits": {"O": 0.81, "C": 0.8, "E": 0.27, "A": 0.5, "N": 0.6}, "emotion": "sad"}
+{"id": "s14", "text": "I often reflect on my feelings in quiet moments. (sample 14)", "traits": {"O": 0.18, "C": 0.91, "E": 0.9, "A": 0.22, "N": 0.7}, "emotion": "neutral"}
+{"id": "s15", "text": "Traveling to new places inspires me to be adventurous. (sample 15)", "traits": {"O": 0.55, "C": 0.86, "E": 0.34, "A": 0.33, "N": 0.01}, "emotion": "happy"}
+{"id": "s16", "text": "I prefer small, close-knit groups to large crowds. (sample 16)", "traits": {"O": 0.92, "C": 0.12, "E": 0.05, "A": 0.76, "N": 0.18}, "emotion": "sad"}
+{"id": "s17", "text": "I like to plan ahead and prepare for meetings. (sample 17)", "traits": {"O": 0.29, "C": 0.69, "E": 0.47, "A": 0.66, "N": 0.39}, "emotion": "neutral"}
+{"id": "s18", "text": "Listening to music helps me relax and focus. (sample 18)", "traits": {"O": 0.66, "C": 0.26, "E": 0.14, "A": 0.45, "N": 0.5}, "emotion": "happy"}
+{"id": "s19", "text": "I sometimes worry about deadlines but manage them. (sample 19)", "traits": {"O": 0.03, "C": 0.05, "E": 0.96, "A": 0.2, "N": 0.33}, "emotion": "sad"}
+{"id": "s20", "text": "Spontaneous outings with friends make me happy. (sample 20)", "traits": {"O": 0.7, "C": 0.18, "E": 0.73, "A": 0.14, "N": 0.46}, "emotion": "neutral"}
+{"id": "s21", "text": "I like reading and discussing books with others. (sample 21)", "traits": {"O": 0.37, "C": 0.76, "E": 0.19, "A": 0.61, "N": 0.59}, "emotion": "happy"}
+{"id": "s22", "text": "Gardening gives me a sense of calm and accomplishment. (sample 22)", "traits": {"O": 0.04, "C": 0.43, "E": 0.69, "A": 0.12, "N": 0.02}, "emotion": "sad"}
+{"id": "s23", "text": "I enjoy trying new recipes and cooking for friends. (sample 23)", "traits": {"O": 0.61, "C": 0.21, "E": 0.4, "A": 0.35, "N": 0.44}, "emotion": "neutral"}
+{"id": "s24", "text": "I find calm in early morning walks with a coffee. (sample 24)", "traits": {"O": 0.98, "C": 0.33, "E": 0.06, "A": 0.9, "N": 0.24}, "emotion": "happy"}
+{"id": "s25", "text": "I get frustrated when plans change at the last minute. (sample 25)", "traits": {"O": 0.25, "C": 0.63, "E": 0.55, "A": 0.29, "N": 0.79}, "emotion": "sad"}
+{"id": "s26", "text": "I enjoy meeting people who challenge my viewpoints. (sample 26)", "traits": {"O": 0.46, "C": 0.04, "E": 0.51, "A": 0.67, "N": 0.11}, "emotion": "neutral"}
+{"id": "s27", "text": "Long bike rides clear my head and boost my mood. (sample 27)", "traits": {"O": 0.13, "C": 0.99, "E": 0.36, "A": 0.73, "N": 0.28}, "emotion": "happy"}
+{"id": "s28", "text": "I sometimes second-guess decisions and worry about outcomes. (sample 28)", "traits": {"O": 0.82, "C": 0.59, "E": 0.22, "A": 0.41, "N": 0.53}, "emotion": "sad"}
+{"id": "s29", "text": "I enjoy photography and capturing small moments. (sample 29)", "traits": {"O": 0.09, "C": 0.77, "E": 0.61, "A": 0.32, "N": 0.65}, "emotion": "neutral"}
+{"id": "s30", "text": "I'm curious about science and technology trends. (sample 30)", "traits": {"O": 0.44, "C": 0.93, "E": 0.42, "A": 0.58, "N": 0.15}, "emotion": "happy"}
+{"id": "s31", "text": "I appreciate quiet evenings at home reading a novel. (sample 31)", "traits": {"O": 0.11, "C": 0.39, "E": 0.23, "A": 0.81, "N": 0.35}, "emotion": "sad"}
+{"id": "s32", "text": "Volunteering gives me a sense of purpose. (sample 32)", "traits": {"O": 0.68, "C": 0.2, "E": 0.88, "A": 0.47, "N": 0.05}, "emotion": "neutral"}
+{"id": "s33", "text": "I thrive when collaborating on creative projects. (sample 33)", "traits": {"O": 0.95, "C": 0.15, "E": 0.77, "A": 0.64, "N": 0.49}, "emotion": "happy"}
+{"id": "s34", "text": "I get anxious before important presentations. (sample 34)", "traits": {"O": 0.2, "C": 0.48, "E": 0.31, "A": 0.36, "N": 0.9}, "emotion": "sad"}
+{"id": "s35", "text": "I enjoy puzzles and strategy games that challenge my mind. (sample 35)", "traits": {"O": 0.57, "C": 0.68, "E": 0.13, "A": 0.6, "N": 0.07}, "emotion": "neutral"}
+{"id": "s36", "text": "I often take on new projects to learn and grow. (sample 36)", "traits": {"O": 0.33, "C": 0.24, "E": 0.72, "A": 0.55, "N": 0.31}, "emotion": "happy"}
+{"id": "s37", "text": "I sometimes struggle to relax and switch off after work. (sample 37)", "traits": {"O": 0.76, "C": 0.6, "E": 0.29, "A": 0.21, "N": 0.68}, "emotion": "sad"}
+{"id": "s38", "text": "I enjoy mentoring others and sharing what I know. (sample 38)", "traits": {"O": 0.49, "C": 0.71, "E": 0.66, "A": 0.52, "N": 0.26}, "emotion": "neutral"}
+{"id": "s39", "text": "I like to test new productivity tools and systems. (sample 39)", "traits": {"O": 0.06, "C": 0.89, "E": 0.44, "A": 0.63, "N": 0.47}, "emotion": "happy"}
+{"id": "s40", "text": "I sometimes feel overwhelmed when juggling many tasks. (sample 40)", "traits": {"O": 0.88, "C": 0.02, "E": 0.59, "A": 0.3, "N": 0.58}, "emotion": "sad"}
+{"id": "s41", "text": "I enjoy quiet coffee shops and watching people go by. (sample 41)", "traits": {"O": 0.15, "C": 0.54, "E": 0.25, "A": 0.44, "N": 0.12}, "emotion": "neutral"}
+{"id": "s42", "text": "I enjoy learning new languages and meeting speakers from different cultures. (sample 42)", "traits": {"O": 0.63, "C": 0.31, "E": 0.86, "A": 0.79, "N": 0.09}, "emotion": "happy"}
+{"id": "s43", "text": "I find it hard to switch off my thoughts sometimes. (sample 43)", "traits": {"O": 0.26, "C": 0.98, "E": 0.32, "A": 0.28, "N": 0.71}, "emotion": "sad"}
+{"id": "s44", "text": "I like to keep my workspace tidy and minimal. (sample 44)", "traits": {"O": 0.99, "C": 0.67, "E": 0.11, "A": 0.37, "N": 0.4}, "emotion": "neutral"}
+{"id": "s45", "text": "I feel most alive when I'm creating art or music. (sample 45)", "traits": {"O": 0.52, "C": 0.28, "E": 0.93, "A": 0.48, "N": 0.16}, "emotion": "happy"}
+{"id": "s46", "text": "Deadlines can make me anxious even when I'm prepared. (sample 46)", "traits": {"O": 0.21, "C": 0.13, "E": 0.5, "A": 0.95, "N": 0.66}, "emotion": "sad"}
+{"id": "s47", "text": "I enjoy deep conversations late into the night. (sample 47)", "traits": {"O": 0.41, "C": 0.83, "E": 0.18, "A": 0.71, "N": 0.35}, "emotion": "neutral"}
+{"id": "s48", "text": "I often volunteer for community projects and events. (sample 48)", "traits": {"O": 0.74, "C": 0.29, "E": 0.39, "A": 0.69, "N": 0.06}, "emotion": "happy"}
+{"id": "s49", "text": "I worry about being judged in social situations. (sample 49)", "traits": {"O": 0.35, "C": 0.62, "E": 0.79, "A": 0.23, "N": 0.84}, "emotion": "sad"}
+{"id": "s50", "text": "I enjoy organizing small gatherings for friends. (sample 50)", "traits": {"O": 0.24, "C": 0.16, "E": 0.68, "A": 0.56, "N": 0.27}, "emotion": "neutral"}
+{"id": "s51", "text": "I feel energized after physical activity and exercise. (sample 51)", "traits": {"O": 0.83, "C": 0.7, "E": 0.41, "A": 0.34, "N": 0.2}, "emotion": "happy"}
+{"id": "s52", "text": "I can be critical of my own work and strive for improvement. (sample 52)", "traits": {"O": 0.02, "C": 0.36, "E": 0.46, "A": 0.77, "N": 0.61}, "emotion": "sad"}
+{"id": "s53", "text": "I enjoy trying local cafes when I travel. (sample 53)", "traits": {"O": 0.65, "C": 0.9, "E": 0.33, "A": 0.54, "N": 0.08}, "emotion": "neutral"}
+{"id": "s54", "text": "I like to learn by watching tutorials and experimenting. (sample 54)", "traits": {"O": 0.47, "C": 0.11, "E": 0.87, "A": 0.68, "N": 0.29}, "emotion": "happy"}
+{"id": "s55", "text": "I feel anxious about meeting new people sometimes. (sample 55)", "traits": {"O": 0.12, "C": 0.52, "E": 0.28, "A": 0.59, "N": 0.95}, "emotion": "sad"}
+{"id": "s56", "text": "I take pleasure in completing small tasks and chores. (sample 56)", "traits": {"O": 0.58, "C": 0.38, "E": 0.65, "A": 0.31, "N": 0.43}, "emotion": "neutral"}
+{"id": "s57", "text": "I enjoy attending workshops and learning from experts. (sample 57)", "traits": {"O": 0.86, "C": 0.14, "E": 0.56, "A": 0.62, "N": 0.33}, "emotion": "happy"}
+{"id": "s58", "text": "I can be hard on myself after a mistake. (sample 58)", "traits": {"O": 0.3, "C": 0.08, "E": 0.75, "A": 0.42, "N": 0.72}, "emotion": "sad"}
+{"id": "s59", "text": "I like to explore nature and go on hikes when possible. (sample 59)", "traits": {"O": 0.6, "C": 0.64, "E": 0.49, "A": 0.53, "N": 0.19}, "emotion": "neutral"}
+{"id": "s60", "text": "I enjoy hosting movie nights and sharing popcorn. (sample 60)", "traits": {"O": 0.39, "C": 0.97, "E": 0.2, "A": 0.46, "N": 0.37}, "emotion": "happy"}
+{"id": "s61", "text": "I sometimes isolate myself when I'm feeling low. (sample 61)", "traits": {"O": 0.5, "C": 0.28, "E": 0.83, "A": 0.24, "N": 0.64}, "emotion": "sad"}
+{"id": "s62", "text": "I enjoy planning my week and setting achievable goals. (sample 62)", "traits": {"O": 0.14, "C": 0.6, "E": 0.35, "A": 0.75, "N": 0.26}, "emotion": "neutral"}
+{"id": "s63", "text": "I find inspiration in watching films and documentaries. (sample 63)", "traits": {"O": 0.77, "C": 0.17, "E": 0.67, "A": 0.55, "N": 0.3}, "emotion": "happy"}
+{"id": "s64", "text": "I worry about future uncertainties even when plans exist. (sample 64)", "traits": {"O": 0.23, "C": 0.45, "E": 0.52, "A": 0.19, "N": 0.9}, "emotion": "sad"}
+{"id": "s65", "text": "I enjoy crafting and making things with my hands. (sample 65)", "traits": {"O": 0.91, "C": 0.32, "E": 0.38, "A": 0.49, "N": 0.11}, "emotion": "neutral"}
+{"id": "s66", "text": "I like to try new workout routines and stay active. (sample 66)", "traits": {"O": 0.36, "C": 0.81, "E": 0.61, "A": 0.65, "N": 0.21}, "emotion": "happy"}
+{"id": "s67", "text": "I can be overly self-critical at times. (sample 67)", "traits": {"O": 0.43, "C": 0.53, "E": 0.07, "A": 0.27, "N": 0.78}, "emotion": "sad"}
+{"id": "s68", "text": "I prefer thoughtful, well-structured discussions. (sample 68)", "traits": {"O": 0.56, "C": 0.88, "E": 0.95, "A": 0.34, "N": 0.05}, "emotion": "neutral"}
+{"id": "s69", "text": "I love to explore music festivals and live performances. (sample 69)", "traits": {"O": 0.08, "C": 0.72, "E": 0.29, "A": 0.6, "N": 0.43}, "emotion": "happy"}
+{"id": "s70", "text": "I worry about making the right choices and feel pressure sometimes. (sample 70)", "traits": {"O": 0.67, "C": 0.1, "E": 0.54, "A": 0.82, "N": 0.6}, "emotion": "sad"}
+{"id": "s71", "text": "I enjoy sketching and creative drawing as a hobby. (sample 71)", "traits": {"O": 0.28, "C": 0.74, "E": 0.48, "A": 0.57, "N": 0.02}, "emotion": "neutral"}
+{"id": "s72", "text": "I feel happiest when I'm surrounded by close friends and family. (sample 72)", "traits": {"O": 0.79, "C": 0.61, "E": 0.2, "A": 0.69, "N": 0.18}, "emotion": "happy"}
+{"id": "s73", "text": "Sometimes I feel impatient when waiting in lines. (sample 73)", "traits": {"O": 0.1, "C": 0.44, "E": 0.85, "A": 0.15, "N": 0.53}, "emotion": "sad"}
+{"id": "s74", "text": "I enjoy attending local art exhibits on weekends. (sample 74)", "traits": {"O": 0.59, "C": 0.25, "E": 0.33, "A": 0.4, "N": 0.36}, "emotion": "neutral"}
+{"id": "s75", "text": "I like learning about philosophy and different viewpoints. (sample 75)", "traits": {"O": 0.45, "C": 0.66, "E": 0.71, "A": 0.5, "N": 0.14}, "emotion": "happy"}
+{"id": "s76", "text": "I sometimes feel hesitant to speak up in groups. (sample 76)", "traits": {"O": 0.96, "C": 0.3, "E": 0.26, "A": 0.24, "N": 0.75}, "emotion": "sad"}
+{"id": "s77", "text": "I enjoy testing recipes and sharing meals. (sample 77)", "traits": {"O": 0.32, "C": 0.02, "E": 0.63, "A": 0.86, "N": 0.4}, "emotion": "neutral"}
+{"id": "s78", "text": "I like to cycle through new routes on weekends. (sample 78)", "traits": {"O": 0.69, "C": 0.5, "E": 0.09, "A": 0.43, "N": 0.29}, "emotion": "happy"}
+{"id": "s79", "text": "I feel down when I compare myself to others online. (sample 79)", "traits": {"O": 0.17, "C": 0.79, "E": 0.6, "A": 0.33, "N": 0.82}, "emotion": "sad"}
+{"id": "s80", "text": "I enjoy learning new software tools and automation techniques. (sample 80)", "traits": {"O": 0.54, "C": 0.47, "E": 0.35, "A": 0.68, "N": 0.07}, "emotion": "neutral"}
+{"id": "s81", "text": "I feel energized by collaborative brainstorming sessions. (sample 81)", "traits": {"O": 0.73, "C": 0.4, "E": 0.99, "A": 0.36, "N": 0.32}, "emotion": "happy"}
+{"id": "s82", "text": "I sometimes find it hard to ask for help when overwhelmed. (sample 82)", "traits": {"O": 0.05, "C": 0.35, "E": 0.57, "A": 0.77, "N": 0.61}, "emotion": "sad"}
+{"id": "s83", "text": "I like to collect books and create a cozy reading nook. (sample 83)", "traits": {"O": 0.4, "C": 0.95, "E": 0.28, "A": 0.59, "N": 0.13}, "emotion": "neutral"}
+{"id": "s84", "text": "I enjoy spontaneous road trips with friends. (sample 84)", "traits": {"O": 0.85, "C": 0.56, "E": 0.43, "A": 0.21, "N": 0.45}, "emotion": "happy"}
+{"id": "s85", "text": "I worry about future finances and planning carefully. (sample 85)", "traits": {"O": 0.22, "C": 0.09, "E": 0.4, "A": 0.65, "N": 0.9}, "emotion": "sad"}
+{"id": "s86", "text": "I enjoy gardening and watching things grow over time. (sample 86)", "traits": {"O": 0.6, "C": 0.73, "E": 0.56, "A": 0.2, "N": 0.11}, "emotion": "neutral"}
+{"id": "s87", "text": "I feel excited when learning a new instrument. (sample 87)", "traits": {"O": 0.31, "C": 0.42, "E": 0.82, "A": 0.49, "N": 0.27}, "emotion": "happy"}
+{"id": "s88", "text": "I sometimes lose motivation if tasks feel meaningless. (sample 88)", "traits": {"O": 0.97, "C": 0.68, "E": 0.12, "A": 0.54, "N": 0.59}, "emotion": "sad"}
+{"id": "s89", "text": "I enjoy discovering hidden local spots in my city. (sample 89)", "traits": {"O": 0.48, "C": 0.3, "E": 0.66, "A": 0.62, "N": 0.34}, "emotion": "neutral"}
+{"id": "s90", "text": "I like to challenge myself with tough mental puzzles. (sample 90)", "traits": {"O": 0.14, "C": 0.99, "E": 0.05, "A": 0.7, "N": 0.38}, "emotion": "happy"}
+{"id": "s91", "text": "I often reflect on the meaning of my experiences. (sample 91)", "traits": {"O": 0.64, "C": 0.2, "E": 0.3, "A": 0.41, "N": 0.76}, "emotion": "sad"}
+{"id": "s92", "text": "I enjoy organizing group trips and handling the logistics. (sample 92)", "traits": {"O": 0.27, "C": 0.88, "E": 0.14, "A": 0.53, "N": 0.18}, "emotion": "neutral"}
+{"id": "s93", "text": "I feel uplifted after helping someone solve a problem. (sample 93)", "traits": {"O": 0.9, "C": 0.37, "E": 0.59, "A": 0.29, "N": 0.21}, "emotion": "happy"}
+{"id": "s94", "text": "I worry about not meeting expectations at times. (sample 94)", "traits": {"O": 0.38, "C": 0.46, "E": 0.72, "A": 0.15, "N": 0.88}, "emotion": "sad"}
+{"id": "s95", "text": "I enjoy collecting souvenirs from places I visit. (sample 95)", "traits": {"O": 0.53, "C": 0.81, "E": 0.24, "A": 0.6, "N": 0.09}, "emotion": "neutral"}
+{"id": "s96", "text": "I like spontaneous creative sessions that spark new ideas. (sample 96)", "traits": {"O": 0.72, "C": 0.07, "E": 0.46, "A": 0.66, "N": 0.31}, "emotion": "happy"}
+{"id": "s97", "text": "I find it hard to stay focused when interrupted frequently. (sample 97)", "traits": {"O": 0.19, "C": 0.55, "E": 0.97, "A": 0.38, "N": 0.5}, "emotion": "sad"}
+{"id": "s98", "text": "I value thoughtful gestures and small kind actions. (sample 98)", "traits": {"O": 0.34, "C": 0.65, "E": 0.39, "A": 0.85, "N": 0.14}, "emotion": "neutral"}
+{"id": "s99", "text": "I enjoy late-night coding sessions that solve hard problems. (sample 99)", "traits": {"O": 0.62, "C": 0.49, "E": 0.58, "A": 0.44, "N": 0.26}, "emotion": "happy"}
+{"id": "s100", "text": "I sometimes feel disconnected and need time to recharge. (sample 100)", "traits": {"O": 0.01, "C": 0.23, "E": 0.8, "A": 0.72, "N": 0.69}, "emotion": "sad"}
+{"id": "s101", "text": "I prefer hands-on learning and building prototypes. (sample 101)", "traits": {"O": 0.75, "C": 0.58, "E": 0.22, "A": 0.61, "N": 0.11}, "emotion": "neutral"}
+{"id": "s102", "text": "I enjoy attending local meetups and chatting with others. (sample 102)", "traits": {"O": 0.16, "C": 0.95, "E": 0.63, "A": 0.47, "N": 0.36}, "emotion": "happy"}
+{"id": "s103", "text": "I become anxious when I can't find a clear answer. (sample 103)", "traits": {"O": 0.42, "C": 0.12, "E": 0.51, "A": 0.35, "N": 0.92}, "emotion": "sad"}
+{"id": "s104", "text": "I enjoy quiet hobbies like knitting and journaling. (sample 104)", "traits": {"O": 0.58, "C": 0.33, "E": 0.19, "A": 0.87, "N": 0.24}, "emotion": "neutral"}
+{"id": "s105", "text": "I feel uplifted when I accomplish a creative goal. (sample 105)", "traits": {"O": 0.89, "C": 0.29, "E": 0.74, "A": 0.51, "N": 0.18}, "emotion": "happy"}
+{"id": "s106", "text": "I sometimes dwell on small mistakes long after they happen. (sample 106)", "traits": {"O": 0.26, "C": 0.41, "E": 0.6, "A": 0.3, "N": 0.8}, "emotion": "sad"}
+{"id": "s107", "text": "I enjoy taking photos of everyday life. (sample 107)", "traits": {"O": 0.36, "C": 0.7, "E": 0.33, "A": 0.54, "N": 0.28}, "emotion": "neutral"}
+{"id": "s108", "text": "I like to experiment with new coffee blends and flavors. (sample 108)", "traits": {"O": 0.68, "C": 0.05, "E": 0.42, "A": 0.62, "N": 0.39}, "emotion": "happy"}
+{"id": "s109", "text": "I sometimes feel uncertain about my next steps in life. (sample 109)", "traits": {"O": 0.11, "C": 0.8, "E": 0.27, "A": 0.22, "N": 0.86}, "emotion": "sad"}
+{"id": "s110", "text": "I enjoy sharing small successes with people I care about. (sample 110)", "traits": {"O": 0.94, "C": 0.6, "E": 0.5, "A": 0.65, "N": 0.2}, "emotion": "neutral"}
