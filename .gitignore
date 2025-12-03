@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.venv
+venv/
+
+# Data and models
+/data/
+/models/
+*.pt
+*.pth
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+*.ipynb_checkpoints
